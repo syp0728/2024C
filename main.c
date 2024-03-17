@@ -1,4 +1,4 @@
-// ProgrammingStudio(01) 22200286_박서윤
+// ProgrammingStudio(01) 22200286_ 박서윤
 
 #include <stdio.h>
 #include <stdlib.h>
